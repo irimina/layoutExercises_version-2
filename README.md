@@ -18,4 +18,4 @@ source.unsplash.com/collection/190727/800x600?1
 - You can represent the container for the images using a div or a ul element. It’s up to you.
 
 - To make the images fit the containing cell, you should give them a width of 100% and set
-their object-fit property to cover so they don’t get squashed.
+their object-fit property to <strong>cover</strong> so they don’t get squashed.
