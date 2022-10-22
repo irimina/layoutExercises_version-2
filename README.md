@@ -12,8 +12,8 @@ space of four images.
 190727/800x600 to get a random image.
 
 - Sometimes you may get duplicate images as a result of caching. To prevent this, append
-a question mark and a sequence number to the URL of the image source: https://
-source.unsplash.com/collection/190727/800x600?1
+a question mark and a sequence number to the URL of the image source: 
+https://source.unsplash.com/collection/190727/800x600?1
 
 - You can represent the container for the images using a div or a ul element. It’s up to you.
 
