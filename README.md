@@ -8,8 +8,8 @@ laptops and wider screens, we have three columns and the third image takes up th
 space of four images.
 
 - Build this gallery from scratch using the mobile-first approach.
--You can set your image source to https://source.unsplash.com/collection/
-190727/800x600 to get a random image.
+-You can set your image source to
+https://source.unsplash.com/collection/190727/800x600 to get a random image.
 
 - Sometimes you may get duplicate images as a result of caching. To prevent this, append
 a question mark and a sequence number to the URL of the image source: 
