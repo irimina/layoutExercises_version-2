@@ -1,7 +1,12 @@
 # layoutExercises
 
 <strong>Task</strong>: 
-Write the HTML and CSS code to create a front-end photo gallery that adapts to various screens sizes as shown in the images mobilePhotos.png, tabletPhotos.png and widerPhotos.png The typical tablet screen size width starts at 768px while the wider screens should have a layout width starting at 1024px.  Use can use the Device Mode in DevTools to view the layout on various screen sizes.
+Write the HTML and CSS code to create a front-end photo gallery that adapts to three types of screen sizes as shown in the images mobilePhotos.png, tabletPhotos.png and widerPhotos.png The typical tablet screen size width starts at 768px while the wider screens should have a layout width starting at 1024px.  You can use the Device Mode in DevTools to view the layout on these screen widths.
+
+RUBRIC
+Total: 15 points
+
+5 points/per each completed photo gallery 
 
 Requirements:
 
