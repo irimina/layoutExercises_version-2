@@ -17,7 +17,7 @@ https://source.unsplash.com/collection/190727/800x600 to get a random image.
 a question mark and a sequence number to the URL of the image source: 
 https://source.unsplash.com/collection/190727/800x600?1
 
-- Add a comment in your CSS file in which you describe the order of the steps you took to complete this task. 
+- Add your name as a comment in your CSS file
 
 Hints and extra help:
 
