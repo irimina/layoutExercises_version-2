@@ -17,7 +17,7 @@ https://source.unsplash.com/collection/190727/800x600 to get a random image.
 a question mark and a sequence number to the URL of the image source: 
 https://source.unsplash.com/collection/190727/800x600?1
 
-- Add your name as a comment in your CSS file
+- In your CSS file, use comments to add your name and a brief comment to indicate the mobile, tablet and wider screen version
 
 Hints and extra help:
 
