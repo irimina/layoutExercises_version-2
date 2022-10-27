@@ -24,7 +24,7 @@ Hints and extra help:
 - Build this gallery from scratch using the mobile-first approach. 
 
 - Note that on mobile, we have a single column. On tablets, we have two columns. On
-laptops and wider screens, we have three columns and the third image takes up the
+laptops and wider screens, we have three columns and the first image takes up the
 space of four images.
 
 - To make the images fit the containing cell, you should give them a width of 100% and set
